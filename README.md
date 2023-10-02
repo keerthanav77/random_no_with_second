@@ -1,2 +1,3 @@
-# random_no_with_second
-Random Number Generator with Timestamp in Seconds
+# rondom_no_with_second
+
+
